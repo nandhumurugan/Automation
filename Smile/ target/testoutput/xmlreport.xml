@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="186.457" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-12-14T06:27:33.766507400Z">
+<testcase classname="Learnmore login validation" name="Table handling" time="185.408">
+<system-out><![CDATA[
+Given user extracts row and column value....................................passed
+]]></system-out>
+</testcase>
+</testsuite>
