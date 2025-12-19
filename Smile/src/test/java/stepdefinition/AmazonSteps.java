@@ -122,7 +122,7 @@ public class AmazonSteps extends UrlAccess {
         Boolean flag=false;
         int a=0;
         for(String compare:values){
-            if(compare.equals("Bookss")){
+            if(compare.equals("Books")){
                 flag=true;
                 a++;
                 break;
